@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC,Quantity
+HD63701Y0,U1,DIP_Socket-64_Shrink_1.78mm_W20.70mm_3M_264-1300-00_0602J,,1
+27256,U2,DIP-28_W15.24mm_Socket_LongPads,,1
+Conn_01x02,J3,PinHeader_1x02_P2.54mm_Vertical,,1
+Conn_01x03,J2,PinHeader_1x03_P2.54mm_Vertical,,1
+Conn_01x02,J1,PinHeader_1x02_P2.54mm_Vertical,,1

@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,117.094,-88.905,180.0,top
+J2,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,78.232,-39.878,180.0,top
+J3,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,81.915,-41.143,0.0,top
+U1,HD63701Y0,DIP_Socket-64_Shrink_1.78mm_W20.70mm_3M_264-1300-00_0602J,97.98,-69.738,180.0,top
+U2,27256,DIP-28_W15.24mm_Socket_LongPads,65.913,-53.594,0.0,top
