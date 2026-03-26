@@ -1,0 +1,1 @@
+# HD63701Y0_27256_EPROM_adapter
